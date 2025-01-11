@@ -7,7 +7,7 @@
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming h
+  - Object-oriented programming u
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -19,7 +19,7 @@
   - Domain-specific languages
   - Multi-paradigm programming
   - Metaprogramming
-  - Actor model
+  - Actor model h
   - Lambda calculus
   - Black box
   - Information hiding
@@ -29,9 +29,9 @@
 - OOP basics
   - Constructor
   - Operator `new`
-  - Static method
-  - Method
-  - Async method
+  - Static method u
+  - Method u
+  - Async method k
   - Getters, Setters u
   - Public fields u
   - Private fields u
@@ -40,14 +40,14 @@
   - Parent class u
   - Polymorphism u
   - Abstract class
-  - Interface
-  - Encapsulation
+  - Interface u
+  - Encapsulation u
   - Hidden class
   - Object form u
   - Instance
   - Introspection
   - Reflection
-  - The diamond problem
+  - The diamond problem h
 - GRASP
   - Information expert
   - Creator
@@ -60,9 +60,9 @@
 - SOLID
   - Single-responsibility principle (SRP) u
   - Open–closed principle (OCP) u
-  - Liskov substitution principle (LSP) h
-  - Interface segregation principle (ISP) h
-  - Dependency inversion principle (DIP) h
+  - Liskov substitution principle (LSP) u
+  - Interface segregation principle (ISP) u
+  - Dependency inversion principle (DIP) u
 - Patterns
   - Singleton u
   - Factory Method
