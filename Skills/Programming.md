@@ -1,7 +1,7 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
+  - Model u
   - Modeling
   - Subject domain
   - Algorithm
@@ -11,13 +11,13 @@
   - Paradigm
   - Programm
   - Programming paradigm
-  - Programming language
+  - Programming language u
   - Contract
   - Module
   - Library
   - Package
   - Component
-  - Framework
+  - Framework u
   - Platform
   - Source code
   - Object code
@@ -32,45 +32,45 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
+  - Value u
   - Identifier
-  - Variable
-  - Constant
+  - Variable u
+  - Constant u
   - Scalar
   - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
+  - Expression u
+  - Heap h
+  - Function u
+  - Procedure u
+  - Method u
+  - Class u
+  - Prototype u
   - Event
-  - Type
+  - Type u
   - Flag
   - Lexical scope
   - Code block
   - Conditions
-  - Loops
+  - Loops u
   - Assignment
   - Regular expression
-  - Interface
+  - Interface u
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Camel case u
+  - Snake case u
+  - Kebab case h
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types u
+  - Reference types u
   - Type systems
-  - Strong typing
-  - Weak typing
+  - Strong typing u
+  - Weak typing u
   - Duck typing
   - Static typing
   - Dynamic typing
@@ -81,19 +81,19 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
+  - Signature u
+  - Argument u
+  - Parameter u
   - Pure function
   - Lambda expression
   - Side effects
-  - Closure
+  - Closure u
   - Partial application
   - Currying
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback
+  - Callback u
   - Listener
   - Composition
   - Pipe
@@ -105,21 +105,21 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array u
+  - Structure u
   - Record
-  - Enum
+  - Enum u
   - Instance
-  - Object
-  - Collection
-  - Set
+  - Object u
+  - Collection u
+  - Set u
   - Hash table
   - Linked list
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue u
+  - Stack u
   - Deque
   - Tree
   - Graph
@@ -128,7 +128,7 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON u
   - JSON5
   - YAML
 - Networking
@@ -138,7 +138,7 @@
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL h
   - URN
   - URI
 - Process and tools
@@ -152,7 +152,7 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
+  - Runtime u
   - Virtual machine
   - Register-based VM
   - Stack-based VM
@@ -217,8 +217,8 @@
   - Linux
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS u
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 h
   - W3C
   - ODMG

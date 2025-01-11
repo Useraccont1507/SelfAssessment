@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop
-  - `try..catch`
+  - `try..catch` h
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -13,8 +13,8 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions
-  - Dead locks
+  - Race conditions h
+  - Dead locks h
   - Live locks
   - Concurrent programming
   - Parallel programming

@@ -2,12 +2,12 @@
 
 - Theory
   - Procedural programming
-  - Imperative programming
+  - Imperative programming u
   - Structured programming
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming h
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -32,18 +32,18 @@
   - Static method
   - Method
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
+  - Getters, Setters u
+  - Public fields u
+  - Private fields u
+  - Field declarations u
+  - Inheritance u
+  - Parent class u
+  - Polymorphism u
   - Abstract class
   - Interface
   - Encapsulation
   - Hidden class
-  - Object form
+  - Object form u
   - Instance
   - Introspection
   - Reflection
@@ -58,13 +58,13 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP) u
+  - Open–closed principle (OCP) u
+  - Liskov substitution principle (LSP) h
+  - Interface segregation principle (ISP) h
+  - Dependency inversion principle (DIP) h
 - Patterns
-  - Singleton
+  - Singleton u
   - Factory Method
   - Abstract Factory
   - Adapter
@@ -88,4 +88,4 @@
   - Visitor
   - Reactor
   - Active object
-  - Delegation
+  - Delegation u
