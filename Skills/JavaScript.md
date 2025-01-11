@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
+  - `Object` k
+  - `Function` k
+  - `Boolean` k
+  - `Number` k
+  - `BigInt` k
+  - `String` k
+  - `Symbol` k
+  - `Infinity` k
+  - `NaN` k
+  - `undefined` k
+  - `null` k
   - `this`
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof` k
   - Destructuring
   - Generators
   - Iterators
@@ -32,22 +32,22 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
+  - Equality operators k
+  - Logical operators k
   - Logical Assignment
   - Bitwise operators
-  - Ternary operator
-  - `void`
+  - Ternary operator k
+  - `void` k
   - `yield`
-  - `await`
+  - `await` k
   - Template literal
   - Strict mode
   - Hoisting
   - `delete`
-  - `in`
-  - `super`
+  - `in` k
+  - `super` k
   - `eval`
-  - `static`
+  - `static` k
   - `Number.parseInt`
   - `Number.parseFloat`
   - Property descriptors
@@ -55,26 +55,26 @@
   - Freezing properties
   - Computed properties
   - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Static class fields k
+  - Private class fields k
+  - Private class methods k
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
+  - `if` k
+  - `while` k
+  - `do..while` k
+  - `for` k
+  - `for..in` k
+  - `for..of` k
+  - `for await` k
+  - `throw` k
+  - `break` k
+  - `continue` k
+  - `import` k
   - `export`
-  - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
+  - `label` k
+  - `try..catch` k
+  - `switch` k
+  - `class` k
   - `extends`
   - `with`
   - `new`
@@ -88,11 +88,11 @@
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` k
 - Data structures
-  - `Array`
+  - `Array` k
   - `Map`
-  - `Set`
+  - `Set` k
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -106,7 +106,7 @@
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON`
+  - `JSON` h
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`

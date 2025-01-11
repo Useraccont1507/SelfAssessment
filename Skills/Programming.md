@@ -5,8 +5,8 @@
   - Modeling
   - Subject domain
   - Algorithm
-  - Syntax
-  - Semantics
+  - Syntax u
+  - Semantics h
   - Abstraction
   - Paradigm
   - Programm
@@ -14,7 +14,7 @@
   - Programming language u
   - Contract
   - Module
-  - Library
+  - Library u
   - Package
   - Component
   - Framework u
@@ -25,12 +25,12 @@
   - Microcode
   - Software engineering
   - Decomposition
-  - Control flow
+  - Control flow u
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) u
+  - KISS principle u
 - Syntax and concepts
   - Value u
   - Identifier
@@ -39,7 +39,7 @@
   - Scalar
   - Literal
   - Expression u
-  - Heap h
+  - Heap u
   - Function u
   - Procedure u
   - Method u
@@ -98,7 +98,7 @@
   - Composition
   - Pipe
   - Memoize
-  - Wrapper
+  - Wrapper u
   - Functor
   - Monad
   - Monoid
@@ -138,7 +138,7 @@
   - IPv4
   - IPv6
   - NAT
-  - URL h
+  - URL u
   - URN
   - URI
 - Process and tools
@@ -160,12 +160,12 @@
   - Debugger
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring u
+  - Code review k
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git u
+  - Github u
   - Docker
   - Kubernetes
   - GCC
@@ -214,8 +214,8 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux h
+  - Unix h
   - BSD
   - MacOS u
   - Windows u
@@ -231,7 +231,7 @@
   - Base64
   - ECMA
   - ICANN
-  - ISO
+  - ISO h
   - MIME
   - OWASP
   - UTF-8 h

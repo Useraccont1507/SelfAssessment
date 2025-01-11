@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop
-  - `try..catch` h
+  - `try..catch` u
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -13,14 +13,14 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions h
-  - Dead locks h
+  - Race conditions u
+  - Dead locks u
   - Live locks
   - Concurrent programming
   - Parallel programming
-  - Actor Model
-  - Thread
-  - Process
+  - Actor Model h
+  - Thread u
+  - Process u
 - Async contracts
   - Callbacks
   - Callback-last-error-first
